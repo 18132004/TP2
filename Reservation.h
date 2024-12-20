@@ -7,7 +7,7 @@ class Reservation {
 private:
     const Date& startDate;
     const int nightNb;
-    const const std::string& idHotel;
+    const std::string idHotel;
     const std::string idRoom;
     const std::string idClient;
     const int price;
