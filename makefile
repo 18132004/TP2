@@ -1,6 +1,7 @@
 # Pour compiler et lancer le programme :
 # mingw32-make.exe | ./bin/app
 
+
 # Makefile with automatic dependencies management
 # Compile all .cpp files from the current directory
 # and link them to the executable into the bin directory
